@@ -17,6 +17,8 @@ testStream: [com.clickhouse.data.ClickHouseSimpleRecord@466d49f0, com.clickhouse
 
 ## Configuration
 
+Need docker to be installed.
+
 ```
 Apache Maven 3.8.6 (84538c9988a25aec085021c365c560670ad80f63)
 Maven home: /home/nec/.sdkman/candidates/maven/current
