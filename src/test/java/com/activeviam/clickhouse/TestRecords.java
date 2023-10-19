@@ -41,7 +41,7 @@ class TestRecords {
 	}
 
 	@Test
-	void testRecord() {
+	void testRecords() {
 		String sql = "SELECT * FROM test.products";
 
 		final Iterable<ClickHouseRecord> records;

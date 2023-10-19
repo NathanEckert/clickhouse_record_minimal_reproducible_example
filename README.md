@@ -1,10 +1,12 @@
-# Minimal reproducible example: `ClickHouseResponse.record()`
+# Minimal reproducible example: `ClickHouseResponse.records()`
 
-`ClickHouseResponse.record()` returns no records when some are expected.
+`ClickHouseResponse.records()` returns no records when some are expected.
 
 ## Test
 
 Run the test `TestRecords` via `mvn clean test`
+
+`testRecord` fails and does not mimic the same behavior as `testStream`
 
 Issue:
 

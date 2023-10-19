@@ -22,11 +22,11 @@
       <artifactId>clickhouse-http-client</artifactId>
       <version>${clickhouse.version}</version>
     </dependency>
-    <dependency>
+<!--    <dependency>
       <groupId>com.clickhouse</groupId>
       <artifactId>clickhouse-data</artifactId>
       <version>${clickhouse.version}</version>
-    </dependency>
+    </dependency>-->
     <!-- Compression algorithm used by ClickHouse -->
     <dependency>
       <groupId>org.lz4</groupId>
